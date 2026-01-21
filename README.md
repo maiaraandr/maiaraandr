@@ -1,17 +1,47 @@
+## Olá! Eu sou Maiara Andrade 
 
-## Olá ! Eu sou Maiara Andrade 
+Estudante de **Sistemas de Informação (UFRA)** |  Desenvolvimento Web, Dados e Sistemas aplicados à área da saúde.
 
+Gosto bastante de tecnologia e estou em constante evolução nas áreas de **front-end**, **bancos de dados** e **análise de dados**, com projetos acadêmicos e práticos voltados para organização, gestão e apoio à tomada de decisão.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mai.sland/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiara-andrade-300123269/)
+---
 
-![Maiara GitHub stats](https://github-readme-stats.vercel.app/api?username=maiaraandr&show_icons=true&theme=tokyonight)
+### 🌐 Conecte-se comigo
 
+---
 
-## Linguagens do dia a dia
+### 📊 Estatísticas do GitHub
 
-<div style="display: inline_block"><br/>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div><br/>
+---
 
-E-mail: maiaraandrade2807@gmail.com
+### 🛠️ Linguagens e Tecnologias
+
+**Uso frequente:**
+
+**Front-end: HTML, CSS  e JAVASCRIPT
+
+**Banck-end: Python, Javascript e Java
+
+** Bancos de Dados: MySQL, PhpMyAdmin
+
+---
+
+### 📌 Projetos em Destaque
+
+🔹 **Sistema Farmaceutixco**
+Sistema de inventário e gestão farmacêutica, com foco em controle de estoque, organização de medicamentos e apoio a processos administrativos.
+
+**Tecnologias:** HTML, CSS, JavaScript, Banco de Dados
+
+🔹 **Sugestão Saborosa**
+Projeto acadêmico de engenharia de software para sugerir receitas saudáveis a partir dos ingredientes disponíveis, reduzindo desperdícios.
+
+---
+
+### 📫 Contato
+
+**E-mail:** [maiaraandrade2807@gmail.com](mailto:maiaraandrade2807@gmail.com)
+
+---
+
+*Em constante aprendizado e aberta a novos desafios na área de tecnologia.*
