@@ -33,10 +33,6 @@ Sistema de inventário e gestão farmacêutica, com foco em controle de estoque,
 
 **Tecnologias:** HTML, CSS, JavaScript, Banco de Dados
 
-🔹 **Sugestão Saborosa**
-Projeto acadêmico de engenharia de software para sugerir receitas saudáveis a partir dos ingredientes disponíveis, reduzindo desperdícios.
-
----
 
 ### 📫 Contato
 
