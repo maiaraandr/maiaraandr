@@ -37,9 +37,8 @@ Estudante com foco em **análise de dados, BI e Data Science**, com interesse es
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=maiarandr&show_icons=true&theme=default&hide_border=true&locale=pt-br)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=maiaraandr&show_icons=true&theme=default&hide_border=true&locale=pt-br)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=maiaraandr&layout=compact&theme=default&hide_border=true&locale=pt-br)
-
 
 ---
 
@@ -49,9 +48,11 @@ Estudante com foco em **análise de dados, BI e Data Science**, com interesse es
 
 Análise de estoque e gestão de medicamentos com foco em organização, controle e apoio à tomada de decisão em ambientes de saúde.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
